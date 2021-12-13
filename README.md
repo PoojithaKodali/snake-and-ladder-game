@@ -22,3 +22,9 @@
 #####  The game should continue till there are at least 2 players still playing to win.
 #####  After the dice roll, if a piece is supposed to move outside position 100, it does not move.
 #####  Snakes and Ladders do not create a cycle.
+
+## Link for the video
+http://youtu.be/PtqdCHcB1L4?hd=1
+## Output
+![Screenshot (69)](https://user-images.githubusercontent.com/72956653/145765281-e1e0bed8-0366-41bf-ae59-e770c1e520f1.png)
+![Screenshot (71)](https://user-images.githubusercontent.com/72956653/145765455-bf31e658-aa1c-4007-8e45-f3384e1e1fce.png)
